@@ -1,0 +1,5 @@
+###Private Docker Registry in Ububtu 14.04
+##
+```
+sudo docker pull registry:latest
+```
