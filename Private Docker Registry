@@ -2,4 +2,5 @@
 ##
 ```
 sudo docker pull registry:latest
+sudo docker run -p 5000:5000 registry:latest
 ```
